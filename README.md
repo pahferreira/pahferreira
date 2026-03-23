@@ -21,16 +21,12 @@ I work across the full stack — from React design systems and micro-frontend ar
 
 I'm at my best working at the intersection of **product thinking and engineering craft**.
 
----
-
 ## What I care about
 
 - **Architecture over code** — I think more about module boundaries, dependency direction, and change amplification than about any specific line of code.
 - **Developer experience as a product** — APIs, tooling, review processes, and documentation are products too. Their users are engineers.
 - **Simplicity as a discipline** — not the absence of complexity, but the ongoing effort to contain it.
 - **Incremental delivery** — shipping frequently, learning continuously, avoiding the big-bang rewrite.
-
----
 
 ## Current stack
 
@@ -40,8 +36,6 @@ Backend     Node.js · NestJS · Fastify · Go · GraphQL · REST
 Data        PostgreSQL · MongoDB · Drizzle ORM
 Infra       Terraform · CI/CD · Trunk-based development · Auth0
 ```
-
----
 
 ## Currently building
 
@@ -54,8 +48,6 @@ Key design decisions:
 - **Type inference over duplication** — models from Drizzle schemas, forms from Zod schemas, permissions from const objects
 
 This is where I test ideas before I bring them to production systems.
-
----
 
 ## Outside of work
 
