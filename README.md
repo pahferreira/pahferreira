@@ -68,6 +68,13 @@ I'm a beginner triathlete — swimming, cycling, and running my way through the 
 ---
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pahferreira&show_icons=true&hide_border=true&count_private=true" alt="Pah's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahferreira&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="left">
   <a href="https://linkedin.com/in/pahferreira">LinkedIn</a> ·
   <a href="mailto:pahferreira.dev@gmail.com">Email</a>
 </p>
