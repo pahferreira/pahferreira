@@ -32,7 +32,7 @@ I'm at my best working at the intersection of **product thinking and engineering
 
 ```
 Frontend    React · TypeScript · React Native · React Query · Module Federation · Zod
-Mobile.     React Native
+Mobile      React Native
 Backend     Node.js · NestJS · Fastify · Go · GraphQL · REST
 Data        PostgreSQL · MongoDB · Drizzle ORM
 Infra       Terraform · CI/CD · Trunk-based development · Auth0
