@@ -40,7 +40,7 @@ Infra       Terraform · CI/CD · Trunk-based development · Auth0
 
 ## Currently building
 
-**[EJC Hub](https://github.com/pahferreira/ejc-hub)** — A full-stack event management platform I use as an architectural playground. Every structural decision is intentional.
+**[pontoEJC](https://pontoejc.com)** — A full-stack event management platform I use as an architectural playground. Every structural decision is intentional.
 
 Key design decisions:
 - **4-layer API module structure** — HTTP → Application → Core → Domain, with Single Responsibility enforced at every boundary
